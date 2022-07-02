@@ -10,7 +10,7 @@ Step 1: Gathering data from 3 different sources as follows:
       
       b.Use the Requests library to download the tweet image prediction (image_predictions.tsv)
       
-      c.Use the Tweepy library to query additional data via the Twitter API (tweet_json.txt) **but twitter developer account wasn't approved,so i went with an alternative** 
+      c.Use the Tweepy library to query additional data via the Twitter API (tweet_json.txt) **but twitter developer account wasn't approved,so i went with an                 alternative** 
       
 
 Step 2: Assessing data
