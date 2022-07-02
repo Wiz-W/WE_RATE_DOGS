@@ -7,8 +7,11 @@ Tasks carried out in this project are as follows:
 
 Step 1: Gathering data from 3 different sources as follows:
       a.Directly download the WeRateDogs Twitter archive data (twitter_archive_enhanced.csv)
-      b.Use the Requests library to download the tweet image prediction (image_predictions.tsv) 
+      
+      b.Use the Requests library to download the tweet image prediction (image_predictions.tsv)
+      
       c.Use the Tweepy library to query additional data via the Twitter API (tweet_json.txt) **but twitter developer account wasn't approved,so i went with an alternative** 
+      
 
 Step 2: Assessing data
 
@@ -21,4 +24,7 @@ Step 5: Analyzing, and visualizing data
 Step 6: Reporting
 
 a.My data wrangling efforts
+
 b.My data analyses and visualizations
+
+
